@@ -21,7 +21,7 @@ Welcome to the Cricket Tournament Leagure! This thrilling C program brings the e
    cd cricket-tournament-game
 2. Compile the program:
    ```bash
-   gcc -o cricket_league_management main.c
+   gcc -o cricket_league_management daaproject.c
 3. Run the program:
    ```bash
    ./cricket_league_management
